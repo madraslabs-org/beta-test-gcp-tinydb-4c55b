@@ -1,1 +1,0 @@
-# beta-test-gcp-tinydb-4c55b
